@@ -1,0 +1,11 @@
+File A,File B,Token %,AST %,Final %,Verdict
+a.py,b.py,100.0,100.0,100.0,HIGH (likely plagiarism)
+a.py,c.py,100.0,100.0,100.0,HIGH (likely plagiarism)
+b.py,c.py,100.0,100.0,100.0,HIGH (likely plagiarism)
+a.py,d.py,69.8,81.5,75.6,MEDIUM (suspicious)
+b.py,d.py,69.8,81.5,75.6,MEDIUM (suspicious)
+c.py,d.py,69.8,81.5,75.6,MEDIUM (suspicious)
+d.py,e.py,8.8,27.3,18.0,LOW
+a.py,e.py,4.2,25.5,14.8,LOW
+b.py,e.py,4.2,25.5,14.8,LOW
+c.py,e.py,4.2,25.5,14.8,LOW
