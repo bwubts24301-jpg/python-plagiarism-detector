@@ -54,7 +54,7 @@ cd Python-Plagiarism-Detector
 python plagiarism_detector.py
 ```
 
-## 📊 How It Works
+~ 📊 How It Works
 
 1. The user selects two Python source code files.
 2. The application processes and tokenizes the code.
@@ -63,18 +63,18 @@ python plagiarism_detector.py
 5. A similarity percentage is calculated.
 6. The result is classified as High, Moderate, or Low similarity.
 
-## ⚠️ Limitations
+~ ⚠️ Limitations
 - Currently supports Python source code files only.
 - Detects textual and token-level similarities.
 - Does not fully detect semantic similarities or completely restructured code.
 
-## 🎯 Project Objective
+~ 🎯 Project Objective
 The main objective of this project is to develop a simple and user-friendly tool that helps students and developers identify similarities between Python programs.
 
-## 👨‍💻 Author
-**Your Name**
+~ 👨‍💻 Author
+Ankita Dolai
 
-B.Tech CSE (AI & ML)  
+B.Tech CSE CORE  
 Brainware University
 
 ---
